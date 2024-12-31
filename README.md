@@ -7,7 +7,6 @@ This repository contains resources and practical exercises for learning Java, in
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
 - [License](#license)
 
 ## Introduction
